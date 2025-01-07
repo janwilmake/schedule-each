@@ -1,1 +1,1 @@
-Attempt at making it possible to schedule requests at predetermined ratelimit: `schedule(requestsArray,{ratelimit:number,unit:"minute"|"hour"|"day"})`
+Attempt at making it possible to schedule requests at predetermined ratelimit: `schedule(requestsArray,{ratelimit:number,unit:"minute"|"hour"|"day"})` to solve the problem of fetching tons of ratelimited apis without complaints.
